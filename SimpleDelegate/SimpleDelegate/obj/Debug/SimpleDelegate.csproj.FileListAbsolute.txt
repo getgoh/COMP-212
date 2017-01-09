@@ -1,0 +1,6 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

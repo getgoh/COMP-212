@@ -1,0 +1,9 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\bin\Debug\FormsTest1.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\bin\Debug\FormsTest1.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\bin\Debug\FormsTest1.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\obj\Debug\FormsTest1.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\obj\Debug\FormsTest1.Form1.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\obj\Debug\FormsTest1.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\obj\Debug\FormsTest1.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\obj\Debug\FormsTest1.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\FormsTest1\FormsTest1\obj\Debug\FormsTest1.pdb
