@@ -1,0 +1,18 @@
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache

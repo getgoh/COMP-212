@@ -1,0 +1,8 @@
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DemoDelegate\bin\Debug\DemoDelegate.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DemoDelegate\bin\Debug\DemoDelegate.pdb
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DemoDelegate\obj\Debug\DemoDelegate.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DemoDelegate\obj\Debug\DemoDelegate.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\DemoDelegate\obj\Debug\DemoDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\DemoDelegate\obj\Debug\DemoDelegate.pdb

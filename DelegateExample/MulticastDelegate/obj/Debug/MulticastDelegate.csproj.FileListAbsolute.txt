@@ -1,0 +1,27 @@
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\CentennialCollege\2016Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\Examples-4-Week#1\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+C:\Users\300910584\Downloads\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\300910584\Downloads\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\300910584\Downloads\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

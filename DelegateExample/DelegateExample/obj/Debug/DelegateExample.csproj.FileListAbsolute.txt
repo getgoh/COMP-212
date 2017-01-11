@@ -1,0 +1,5 @@
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

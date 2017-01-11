@@ -1,0 +1,12 @@
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MoreOnDelegate\bin\Debug\MoreOnDelegate.exe.config
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MoreOnDelegate\bin\Debug\MoreOnDelegate.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MoreOnDelegate\bin\Debug\MoreOnDelegate.pdb
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MoreOnDelegate\obj\Debug\MoreOnDelegate.exe
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MoreOnDelegate\obj\Debug\MoreOnDelegate.pdb
+C:\CentennialCollege\2014Summer\COMP212\MyWork\DelegateExample\MoreOnDelegate\obj\Debug\MoreOnDelegate.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MoreOnDelegate\bin\Debug\MoreOnDelegate.exe.config
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MoreOnDelegate\obj\Debug\MoreOnDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MoreOnDelegate\obj\Debug\MoreOnDelegate.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MoreOnDelegate\bin\Debug\MoreOnDelegate.exe
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MoreOnDelegate\bin\Debug\MoreOnDelegate.pdb
+C:\CentennialCollege\2015Winter\COMP212\LectureNotes\Week#4\DelegateExample\DelegateExample\MoreOnDelegate\obj\Debug\MoreOnDelegate.csprojResolveAssemblyReference.cache
