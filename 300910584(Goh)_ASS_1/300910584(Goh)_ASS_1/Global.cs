@@ -10,6 +10,13 @@ namespace _300910584_Goh__ASS_1
     {
         private static List<SendViaEmail> _emailList = new List<SendViaEmail>();
         private static List<SendViaMobile> _mobileList = new List<SendViaMobile>();
+        private static Publisher _publisher = new Publisher();
+
+        public static Publisher MyPublisher
+        {
+            get { return _publisher; }
+            set { _publisher = value; }
+        }
 
         public static List<SendViaEmail> EmailList
         {

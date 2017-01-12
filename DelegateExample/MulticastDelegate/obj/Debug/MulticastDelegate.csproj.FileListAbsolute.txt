@@ -25,3 +25,9 @@ F:\Yinhua Li\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#1\DelegateEx
 C:\Users\300910584\Downloads\DelegateExample\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
 C:\Users\300910584\Downloads\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
 C:\Users\300910584\Downloads\DelegateExample\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache

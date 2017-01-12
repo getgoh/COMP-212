@@ -14,11 +14,9 @@ namespace _300910584_Goh__ASS_1
 {
     public partial class SubscribeForm : Form
     {
-        Publisher publisher;
 
         public SubscribeForm()
         {
-            publisher = new Publisher();
             InitializeComponent();
         }
 
@@ -41,7 +39,7 @@ namespace _300910584_Goh__ASS_1
                 else
                 {
                     // check if email exists
-                    if (emailExist(email))
+                    if (emailExist(email) != null)
                     {
                         // if email exists, show error message
                         MessageBox.Show("Error: Email '" + email + "' already subscribed.");
@@ -50,7 +48,10 @@ namespace _300910584_Goh__ASS_1
                     {
                         // add email to collection
                         MessageBox.Show("Email '" + email + "' subscribed.");
-                        Global.EmailList.Add(new SendViaEmail(email));
+                        SendViaEmail sub = new SendViaEmail(email);
+                        // subscribe
+                        sub.Subscribe(Global.MyPublisher);
+                        Global.EmailList.Add(sub);
                     }
                 }
             }
@@ -66,7 +67,7 @@ namespace _300910584_Goh__ASS_1
                 }
                 else
                 {
-                    if (mobileExist(mobileNum))
+                    if (mobileExist(mobileNum) != null)
                     {
                         // if mobile exists, show error message
                         MessageBox.Show("Error: Mobile '" + mobileNum + "' already subscribed.");
@@ -75,7 +76,9 @@ namespace _300910584_Goh__ASS_1
                     {
                         // add mobile to collection
                         MessageBox.Show("Mobile number '" + mobileNum + "' subscribed.");
-                        Global.MobileList.Add(new SendViaMobile(mobileNum));
+                        SendViaMobile sub = new SendViaMobile(mobileNum);
+                        sub.Subscribe(Global.MyPublisher);
+                        Global.MobileList.Add(sub);
                     }
                 }
             }
@@ -137,31 +140,31 @@ namespace _300910584_Goh__ASS_1
         }
 
         // checker if email exists in collection
-        public bool emailExist(string email)
+        public SendViaEmail emailExist(string email)
         {
             foreach(SendViaEmail e in Global.EmailList)
             {
                 if(e.getEmailAddr().Equals(email))
                 {
-                    return true;
+                    return e;
                 }
             }
 
-            return false;
+            return null;
         }
 
         // checker if mobile exists in collection
-        public bool mobileExist(string mobile)
+        public SendViaMobile mobileExist(string mobile)
         {
             foreach (SendViaMobile e in Global.MobileList)
             {
                 if (e.getMobile().Equals(mobile))
                 {
-                    return true;
+                    return e;
                 }
             }
 
-            return false;
+            return null;
         }
 
         // email format checker
@@ -195,11 +198,12 @@ namespace _300910584_Goh__ASS_1
                 else
                 {
                     // check if email exists
-                    if (emailExist(email))
+                    SendViaEmail sub = emailExist(email);
+                    if (sub != null)
                     {
-                        // if email exists, show message and set exist checker to true
-                        MessageBox.Show("Error: Email '" + email + "' already subscribed.");
-                        Global.MobileList.Remove(new SendViaMobile(email));
+                        sub.Unsubscribe(Global.MyPublisher);
+                        Global.EmailList.Remove(Global.EmailList.Where(a => a.getEmailAddr().Equals(email)).FirstOrDefault());
+                        MessageBox.Show("Email '" + email + "' unsubscribed.");
                     }
                     else
                     {
@@ -220,11 +224,12 @@ namespace _300910584_Goh__ASS_1
                 }
                 else
                 {
-                    if (mobileExist(mobileNum))
+                    SendViaMobile sub = mobileExist(mobileNum);
+                    if (sub != null)
                     {
-                        // if mobile exists, show message and set exist checker to true
-                        MessageBox.Show("Error: Mobile '" + mobileNum + "' already subscribed.");
-                        Global.MobileList.Remove(new SendViaMobile(mobileNum));
+                        sub.Unsubscribe(Global.MyPublisher);
+                        Global.MobileList.Remove(Global.MobileList.Where(a => a.getMobile().Equals(mobileNum)).FirstOrDefault());
+                        MessageBox.Show("Mobile number '" + mobileNum + "' unsubscribed.");
                     }
                     else
                     {
@@ -233,6 +238,11 @@ namespace _300910584_Goh__ASS_1
                     }
                 }
             }
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 

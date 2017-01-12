@@ -37,7 +37,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(103, 77);
+            this.label1.Location = new System.Drawing.Point(96, 46);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(100, 13);
             this.label1.TabIndex = 0;
@@ -45,34 +45,36 @@
             // 
             // txtContent
             // 
-            this.txtContent.Location = new System.Drawing.Point(243, 74);
+            this.txtContent.Location = new System.Drawing.Point(236, 43);
             this.txtContent.Name = "txtContent";
             this.txtContent.Size = new System.Drawing.Size(166, 20);
             this.txtContent.TabIndex = 1;
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(258, 119);
+            this.btnExit.Location = new System.Drawing.Point(251, 88);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(129, 34);
             this.btnExit.TabIndex = 8;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // btnPublish
             // 
-            this.btnPublish.Location = new System.Drawing.Point(104, 119);
+            this.btnPublish.Location = new System.Drawing.Point(97, 88);
             this.btnPublish.Name = "btnPublish";
             this.btnPublish.Size = new System.Drawing.Size(129, 34);
             this.btnPublish.TabIndex = 7;
             this.btnPublish.Text = "Publish";
             this.btnPublish.UseVisualStyleBackColor = true;
+            this.btnPublish.Click += new System.EventHandler(this.btnPublish_Click);
             // 
             // PublishNotificationForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(494, 190);
+            this.ClientSize = new System.Drawing.Size(494, 160);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnPublish);
             this.Controls.Add(this.txtContent);

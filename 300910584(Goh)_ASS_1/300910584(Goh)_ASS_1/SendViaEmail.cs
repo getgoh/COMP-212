@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,6 +30,7 @@ namespace _300910584_Goh__ASS_1
 
         public void sendEmail(string msg)
         {
+           // Debug.WriteLine("asd");
             Console.WriteLine("The message" + "\"" + msg + "\" has already sent to " + emailAddr);
         }
 
