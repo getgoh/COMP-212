@@ -22,6 +22,12 @@ namespace _300910584_Goh__ASS_1
 
         private void btnSubscribe_Click(object sender, EventArgs e)
         {
+            // check if any of the checkboxes are selected
+            if(!cbEmail.Checked && !cbMobile.Checked)
+            {
+                MessageBox.Show("Please select email and/or mobile");
+                return;
+            }
 
             // get inputs
             string mobileNum = txtMobile.Text;
