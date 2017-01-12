@@ -21,7 +21,10 @@ namespace _300910584_Goh__ASS_1
         private void btnPublish_Click(object sender, EventArgs e)
         {
             string notif = txtContent.Text;
-            Global.MyPublisher.PublishMessage(notif);
+            if(Global.MyPublisher.publishmsg != null)
+                Global.MyPublisher.PublishMessage(notif);
+            else
+                MessageBox.Show("No subscribers.");
         }
 
         private void btnExit_Click(object sender, EventArgs e)
