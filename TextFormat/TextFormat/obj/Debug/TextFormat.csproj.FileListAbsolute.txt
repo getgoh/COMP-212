@@ -1,0 +1,9 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\bin\Debug\TextFormat.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\bin\Debug\TextFormat.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\bin\Debug\TextFormat.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\obj\Debug\TextFormat.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\obj\Debug\TextFormat.Form1.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\obj\Debug\TextFormat.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\obj\Debug\TextFormat.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\obj\Debug\TextFormat.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\TextFormat\TextFormat\obj\Debug\TextFormat.pdb

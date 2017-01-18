@@ -27,6 +27,7 @@ namespace _300910584_Goh__ASS_1
         private void btnPublish_Click(object sender, EventArgs e)
         {
             PublishNotificationForm form = new PublishNotificationForm();
+            this.Hide();
             form.Show();
         }
 

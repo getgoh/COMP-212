@@ -1,0 +1,9 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\bin\Debug\DemoToolStrip.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\bin\Debug\DemoToolStrip.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\bin\Debug\DemoToolStrip.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\obj\Debug\DemoToolStrip.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\obj\Debug\DemoToolStrip.Form1.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\obj\Debug\DemoToolStrip.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\obj\Debug\DemoToolStrip.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\obj\Debug\DemoToolStrip.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DemoToolStrip\DemoToolStrip\obj\Debug\DemoToolStrip.pdb

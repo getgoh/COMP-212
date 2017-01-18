@@ -20,3 +20,14 @@ C:\Users\bluja\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS
 C:\Users\bluja\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\_300910584_Goh__ASS_1.PublishNotificationForm.resources
 C:\Users\bluja\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\_300910584_Goh__ASS_1.SubscribeForm.resources
 C:\Users\bluja\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\300910584(Goh)_ASS_1.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\bin\Debug\300910584(Goh)_ASS_1.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\300910584(Goh)_ASS_1.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\300910584(Goh)_ASS_1.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\bin\Debug\300910584(Goh)_ASS_1.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\bin\Debug\300910584(Goh)_ASS_1.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\300910584(Goh)_ASS_1.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\_300910584_Goh__ASS_1.Form1.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\_300910584_Goh__ASS_1.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\_300910584_Goh__ASS_1.PublishNotificationForm.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\_300910584_Goh__ASS_1.SubscribeForm.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(Goh)_ASS_1\300910584(Goh)_ASS_1\obj\Debug\300910584(Goh)_ASS_1.csproj.GenerateResource.Cache
