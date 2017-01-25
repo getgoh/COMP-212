@@ -1,0 +1,7 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\bin\Debug\Clock.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\obj\Debug\Clock.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\Clock\Clock\obj\Debug\Clock.ClockUserControl.resources

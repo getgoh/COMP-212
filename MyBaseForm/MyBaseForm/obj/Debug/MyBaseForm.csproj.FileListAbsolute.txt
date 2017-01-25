@@ -1,0 +1,9 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\bin\Debug\MyBaseForm.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\obj\Debug\MyBaseForm.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\obj\Debug\MyBaseForm.CentennialBaseForm.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\obj\Debug\MyBaseForm.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\obj\Debug\MyBaseForm.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\obj\Debug\MyBaseForm.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\bin\Debug\MyBaseForm.dll.config
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\bin\Debug\MyBaseForm.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\MyBaseForm\MyBaseForm\obj\Debug\MyBaseForm.dll
