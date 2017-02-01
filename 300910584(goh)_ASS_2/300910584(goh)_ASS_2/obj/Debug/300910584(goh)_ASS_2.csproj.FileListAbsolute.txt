@@ -7,3 +7,12 @@ c:\users\300910584\documents\visual studio 2015\Projects\300910584(goh)_ASS_2\30
 c:\users\300910584\documents\visual studio 2015\Projects\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.csproj.GenerateResource.Cache
 c:\users\300910584\documents\visual studio 2015\Projects\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.exe
 c:\users\300910584\documents\visual studio 2015\Projects\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\bin\Debug\300910584(goh)_ASS_2.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\bin\Debug\300910584(goh)_ASS_2.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\bin\Debug\300910584(goh)_ASS_2.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\_300910584_goh__ASS_2.frmMain.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\_300910584_goh__ASS_2.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2\300910584(goh)_ASS_2\obj\Debug\300910584(goh)_ASS_2.csproj.GenerateResource.Cache

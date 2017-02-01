@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -26,19 +27,19 @@ namespace _300910584_goh__ASS_2
             menuItemList = getMenuItemList();
 
             cmbBeverage.DataSource = menuItemList.Where(a => a.Category.Equals("Beverage")).ToList();
-            cmbBeverage.DisplayMember = "Name";
+            cmbBeverage.DisplayMember = "DisplayItem";
             cmbBeverage.ValueMember = "Id";
 
             cmbAppetizer.DataSource = menuItemList.Where(a => a.Category.Equals("Appetizer")).ToList();
-            cmbAppetizer.DisplayMember = "Name";
+            cmbAppetizer.DisplayMember = "DisplayItem";
             cmbAppetizer.ValueMember = "Id";
 
             cmbMainCourse.DataSource = menuItemList.Where(a => a.Category.Equals("Main Course")).ToList();
-            cmbMainCourse.DisplayMember = "Name";
+            cmbMainCourse.DisplayMember = "DisplayItem";
             cmbMainCourse.ValueMember = "Id";
 
             cmbDessert.DataSource = menuItemList.Where(a => a.Category.Equals("Dessert")).ToList();
-            cmbDessert.DisplayMember = "Name";
+            cmbDessert.DisplayMember = "DisplayItem";
             cmbDessert.ValueMember = "Id";
         }
 
@@ -100,15 +101,22 @@ namespace _300910584_goh__ASS_2
 
         private void btnClearBill_Click(object sender, EventArgs e)
         {
-            subTotal = 0;
+            subTotal = 0.00;
             tax = 0;
             total = 0;
 
-            txtSubtotal.Text = "Sub Total: $" + subTotal;
-            txtTax.Text = "Tax: $" + tax;
-            txtTotal.Text = "Total: $" + total;
+            string sSub = string.Format("Sub Total: ${0:0.##}", subTotal);
+
+            txtSubtotal.Text = "Sub Total: $0.00";
+            txtTax.Text = "Tax: $0.00";
+            txtTotal.Text = "Total: $0.00";
 
             dgvItems.Rows.Clear();
+        }
+
+        private void btnCompany_Click(object sender, EventArgs e)
+        {
+            Process.Start("IEXPLORE.EXE", "https://www.letseat.at/");
         }
 
         private void cmbBeverage_SelectedIndexChanged(object sender, EventArgs e)
@@ -126,12 +134,13 @@ namespace _300910584_goh__ASS_2
             subTotal += currItem.Price;
             tax += currItem.Price * .15;
             total = subTotal + tax;
+            
 
-            txtSubtotal.Text = "Sub Total: $" + subTotal;
-            txtTax.Text = "Tax: $" + tax;
-            txtTotal.Text = "Total: $" + total;
+            txtSubtotal.Text = string.Format("Sub Total: ${0:0.##}", subTotal);
+            txtTax.Text = string.Format("Tax: ${0:0.##}", +tax);
+            txtTotal.Text = string.Format("Total: ${0:0.##}", total);
 
-            dgvItems.Rows.Add(currItem.Name, currItem.Category, "$" + currItem.Price);
+            dgvItems.Rows.Add(currItem.Name, "$" + currItem.Price);
         }
     }
 }

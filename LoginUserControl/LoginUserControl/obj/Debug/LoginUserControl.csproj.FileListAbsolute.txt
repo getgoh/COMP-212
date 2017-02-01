@@ -1,0 +1,6 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\LoginUserControl\LoginUserControl\bin\Debug\LoginUserControl.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\LoginUserControl\LoginUserControl\bin\Debug\LoginUserControl.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\LoginUserControl\LoginUserControl\obj\Debug\LoginUserControl.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\LoginUserControl\LoginUserControl\obj\Debug\LoginUserControl.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\LoginUserControl\LoginUserControl\obj\Debug\LoginUserControl.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\LoginUserControl\LoginUserControl\obj\Debug\LoginUserControl.LoginUserControl.resources

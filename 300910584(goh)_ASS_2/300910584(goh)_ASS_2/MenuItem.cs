@@ -21,6 +21,14 @@ namespace _300910584_goh__ASS_2
             this.name = name;
         }
 
+        public string DisplayItem
+        {
+            get
+            {
+                return this.name + " - $" + price;
+            }
+        }
+
         public string Name
         {
             get

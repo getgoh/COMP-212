@@ -45,7 +45,6 @@
             this.txtTotal = new System.Windows.Forms.Label();
             this.dgvItems = new System.Windows.Forms.DataGridView();
             this.ItemName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Category = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Price = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.statusStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvItems)).BeginInit();
@@ -57,7 +56,7 @@
             this.btnCompany});
             this.statusStrip1.Location = new System.Drawing.Point(0, 240);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(705, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(595, 22);
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -66,13 +65,14 @@
             this.btnCompany.Image = ((System.Drawing.Image)(resources.GetObject("btnCompany.Image")));
             this.btnCompany.Name = "btnCompany";
             this.btnCompany.Size = new System.Drawing.Size(16, 17);
+            this.btnCompany.Click += new System.EventHandler(this.btnCompany_Click);
             // 
             // cmbBeverage
             // 
             this.cmbBeverage.FormattingEnabled = true;
             this.cmbBeverage.Location = new System.Drawing.Point(13, 34);
             this.cmbBeverage.Name = "cmbBeverage";
-            this.cmbBeverage.Size = new System.Drawing.Size(121, 21);
+            this.cmbBeverage.Size = new System.Drawing.Size(140, 21);
             this.cmbBeverage.TabIndex = 1;
             this.cmbBeverage.SelectedIndexChanged += new System.EventHandler(this.cmbBeverage_SelectedIndexChanged);
             // 
@@ -88,7 +88,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(151, 15);
+            this.label2.Location = new System.Drawing.Point(184, 15);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(51, 13);
             this.label2.TabIndex = 4;
@@ -97,9 +97,9 @@
             // cmbAppetizer
             // 
             this.cmbAppetizer.FormattingEnabled = true;
-            this.cmbAppetizer.Location = new System.Drawing.Point(151, 34);
+            this.cmbAppetizer.Location = new System.Drawing.Point(184, 34);
             this.cmbAppetizer.Name = "cmbAppetizer";
-            this.cmbAppetizer.Size = new System.Drawing.Size(121, 21);
+            this.cmbAppetizer.Size = new System.Drawing.Size(142, 21);
             this.cmbAppetizer.TabIndex = 3;
             this.cmbAppetizer.SelectedIndexChanged += new System.EventHandler(this.cmbAppetizer_SelectedIndexChanged);
             // 
@@ -117,14 +117,14 @@
             this.cmbMainCourse.FormattingEnabled = true;
             this.cmbMainCourse.Location = new System.Drawing.Point(13, 86);
             this.cmbMainCourse.Name = "cmbMainCourse";
-            this.cmbMainCourse.Size = new System.Drawing.Size(121, 21);
+            this.cmbMainCourse.Size = new System.Drawing.Size(140, 21);
             this.cmbMainCourse.TabIndex = 5;
             this.cmbMainCourse.SelectedIndexChanged += new System.EventHandler(this.cmbMainCourse_SelectedIndexChanged);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(151, 67);
+            this.label4.Location = new System.Drawing.Point(184, 67);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(43, 13);
             this.label4.TabIndex = 8;
@@ -133,9 +133,9 @@
             // cmbDessert
             // 
             this.cmbDessert.FormattingEnabled = true;
-            this.cmbDessert.Location = new System.Drawing.Point(151, 86);
+            this.cmbDessert.Location = new System.Drawing.Point(184, 86);
             this.cmbDessert.Name = "cmbDessert";
-            this.cmbDessert.Size = new System.Drawing.Size(121, 21);
+            this.cmbDessert.Size = new System.Drawing.Size(142, 21);
             this.cmbDessert.TabIndex = 7;
             this.cmbDessert.SelectedIndexChanged += new System.EventHandler(this.cmbDessert_SelectedIndexChanged);
             // 
@@ -152,7 +152,7 @@
             // txtSubtotal
             // 
             this.txtSubtotal.AutoSize = true;
-            this.txtSubtotal.Location = new System.Drawing.Point(123, 119);
+            this.txtSubtotal.Location = new System.Drawing.Point(156, 119);
             this.txtSubtotal.Name = "txtSubtotal";
             this.txtSubtotal.Size = new System.Drawing.Size(86, 13);
             this.txtSubtotal.TabIndex = 10;
@@ -161,7 +161,7 @@
             // txtTax
             // 
             this.txtTax.AutoSize = true;
-            this.txtTax.Location = new System.Drawing.Point(151, 142);
+            this.txtTax.Location = new System.Drawing.Point(184, 142);
             this.txtTax.Name = "txtTax";
             this.txtTax.Size = new System.Drawing.Size(58, 13);
             this.txtTax.TabIndex = 11;
@@ -170,7 +170,7 @@
             // txtTotal
             // 
             this.txtTotal.AutoSize = true;
-            this.txtTotal.Location = new System.Drawing.Point(145, 165);
+            this.txtTotal.Location = new System.Drawing.Point(178, 165);
             this.txtTotal.Name = "txtTotal";
             this.txtTotal.Size = new System.Drawing.Size(64, 13);
             this.txtTotal.TabIndex = 12;
@@ -181,22 +181,16 @@
             this.dgvItems.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvItems.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.ItemName,
-            this.Category,
             this.Price});
-            this.dgvItems.Location = new System.Drawing.Point(306, 12);
+            this.dgvItems.Location = new System.Drawing.Point(332, 12);
             this.dgvItems.Name = "dgvItems";
-            this.dgvItems.Size = new System.Drawing.Size(387, 215);
+            this.dgvItems.Size = new System.Drawing.Size(252, 215);
             this.dgvItems.TabIndex = 13;
             // 
             // ItemName
             // 
             this.ItemName.HeaderText = "Name";
             this.ItemName.Name = "ItemName";
-            // 
-            // Category
-            // 
-            this.Category.HeaderText = "Category";
-            this.Category.Name = "Category";
             // 
             // Price
             // 
@@ -207,7 +201,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(705, 262);
+            this.ClientSize = new System.Drawing.Size(595, 262);
             this.Controls.Add(this.dgvItems);
             this.Controls.Add(this.txtTotal);
             this.Controls.Add(this.txtTax);
@@ -250,7 +244,6 @@
         private System.Windows.Forms.Label txtTotal;
         private System.Windows.Forms.DataGridView dgvItems;
         private System.Windows.Forms.DataGridViewTextBoxColumn ItemName;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Category;
         private System.Windows.Forms.DataGridViewTextBoxColumn Price;
     }
 }

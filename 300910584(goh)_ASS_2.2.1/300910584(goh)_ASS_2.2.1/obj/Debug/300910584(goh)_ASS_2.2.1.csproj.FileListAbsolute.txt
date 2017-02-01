@@ -1,0 +1,7 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\bin\Debug\300910584(goh)_ASS_2.2.1.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\bin\Debug\300910584(goh)_ASS_2.2.1.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\obj\Debug\300910584(goh)_ASS_2.2.1.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\obj\Debug\_300910584_goh__ASS_2._2._1.LoginUserControl.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\obj\Debug\300910584(goh)_ASS_2.2.1.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\obj\Debug\300910584(goh)_ASS_2.2.1.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_2.2.1\300910584(goh)_ASS_2.2.1\obj\Debug\300910584(goh)_ASS_2.2.1.pdb
