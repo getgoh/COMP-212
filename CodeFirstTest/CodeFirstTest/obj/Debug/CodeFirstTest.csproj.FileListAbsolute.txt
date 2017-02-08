@@ -1,0 +1,10 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\CodeFirstTest.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\CodeFirstTest.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\CodeFirstTest.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\EntityFramework.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\EntityFramework.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\CodeFirstTest\CodeFirstTest\obj\Debug\CodeFirstTest.pdb

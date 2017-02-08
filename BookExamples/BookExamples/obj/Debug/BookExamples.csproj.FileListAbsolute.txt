@@ -1,0 +1,12 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\Books.mdf
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\Books_log.ldf
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\BookExamples.dll.config
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\BookExamples.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\BookExamples.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\EntityFramework.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\EntityFramework.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\obj\Debug\BookExamples.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\obj\Debug\BookExamples.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\BookExamples\BookExamples\obj\Debug\BookExamples.pdb

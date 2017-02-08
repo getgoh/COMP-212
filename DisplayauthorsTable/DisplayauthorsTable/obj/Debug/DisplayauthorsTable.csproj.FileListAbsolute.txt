@@ -1,0 +1,15 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\DisplayauthorsTable.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\DisplayauthorsTable.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\DisplayauthorsTable.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\BookExamples.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\EntityFramework.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\BookExamples.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\EntityFramework.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\obj\Debug\DisplayauthorsTable.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\obj\Debug\DisplayauthorsTable.Form1.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\obj\Debug\DisplayauthorsTable.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\obj\Debug\DisplayauthorsTable.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\obj\Debug\DisplayauthorsTable.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayauthorsTable\DisplayauthorsTable\obj\Debug\DisplayauthorsTable.pdb
