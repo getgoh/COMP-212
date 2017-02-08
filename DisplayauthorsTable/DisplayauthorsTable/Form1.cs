@@ -18,5 +18,10 @@ namespace DisplayauthorsTable
 
             
         }
+
+        private void bindingNavigatorAddNewItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
