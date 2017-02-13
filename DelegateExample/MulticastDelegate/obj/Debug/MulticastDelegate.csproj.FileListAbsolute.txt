@@ -31,3 +31,6 @@ C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\D
 C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe
 C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
 C:\Users\bluja\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DelegateExample\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

@@ -1,0 +1,15 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\300910584(goh)_ASS_3.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\Baseball.mdf
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\Baseball_log.ldf
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\300910584(goh)_ASS_3.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\300910584(goh)_ASS_3.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\EntityFramework.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\EntityFramework.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\obj\Debug\300910584(goh)_ASS_3.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\obj\Debug\_300910584_goh__ASS_3.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\obj\Debug\300910584(goh)_ASS_3.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\obj\Debug\300910584(goh)_ASS_3.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\obj\Debug\300910584(goh)_ASS_3.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3\obj\Debug\_300910584_goh__ASS_3.frmBaseball.resources
