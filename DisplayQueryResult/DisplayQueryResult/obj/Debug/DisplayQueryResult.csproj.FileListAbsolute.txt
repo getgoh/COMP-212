@@ -1,0 +1,15 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\BookExamples.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\EntityFramework.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\BookExamples.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\EntityFramework.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\obj\Debug\DisplayQueryResult.Form1.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\DisplayQueryResult\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb
