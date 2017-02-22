@@ -28,34 +28,50 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvBooks = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvBooks)).BeginInit();
+            this.cbQuery = new System.Windows.Forms.ComboBox();
+            this.txtOutput = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // dgvBooks
+            // cbQuery
             // 
-            this.dgvBooks.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvBooks.Location = new System.Drawing.Point(13, 13);
-            this.dgvBooks.Name = "dgvBooks";
-            this.dgvBooks.Size = new System.Drawing.Size(605, 155);
-            this.dgvBooks.TabIndex = 0;
+            this.cbQuery.FormattingEnabled = true;
+            this.cbQuery.Items.AddRange(new object[] {
+            "Titles and authors, sorted by title",
+            "Titles and authors, sorted by title, then by author last name, then first name",
+            "Authors, grouped by title, sorted by title; for every title, sort by author last " +
+                "name then first name"});
+            this.cbQuery.Location = new System.Drawing.Point(13, 310);
+            this.cbQuery.Name = "cbQuery";
+            this.cbQuery.Size = new System.Drawing.Size(605, 21);
+            this.cbQuery.TabIndex = 1;
+            this.cbQuery.SelectedIndexChanged += new System.EventHandler(this.cbQuery_SelectedIndexChanged);
+            // 
+            // txtOutput
+            // 
+            this.txtOutput.Location = new System.Drawing.Point(13, 13);
+            this.txtOutput.Multiline = true;
+            this.txtOutput.Name = "txtOutput";
+            this.txtOutput.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtOutput.Size = new System.Drawing.Size(605, 291);
+            this.txtOutput.TabIndex = 2;
             // 
             // frmBooks
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(630, 343);
-            this.Controls.Add(this.dgvBooks);
+            this.Controls.Add(this.txtOutput);
+            this.Controls.Add(this.cbQuery);
             this.Name = "frmBooks";
             this.Text = "Books";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvBooks)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dgvBooks;
+        private System.Windows.Forms.ComboBox cbQuery;
+        private System.Windows.Forms.TextBox txtOutput;
     }
 }
 

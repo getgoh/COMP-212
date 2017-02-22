@@ -1,0 +1,12 @@
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\CentennialCollege\COMP212Example\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb
