@@ -13,3 +13,16 @@ C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)
 C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.exe
 C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.pdb
 C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.csprojResolveAssemblyReference.cache
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\300910584(goh)_ASS_3-2.exe.config
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.exe
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.csprojResolveAssemblyReference.cache
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\_300910584_goh__ASS_3_2.frmBooks.resources
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\_300910584_goh__ASS_3_2.Properties.Resources.resources
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\obj\Debug\300910584(goh)_ASS_3-2.csproj.GenerateResource.Cache
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\300910584(goh)_ASS_3-2.exe
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\300910584(goh)_ASS_3-2.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\EntityFramework.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\EntityFramework.xml
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\300910584(goh)_ASS_3-2\bin\Debug\EntityFramework.SqlServer.xml

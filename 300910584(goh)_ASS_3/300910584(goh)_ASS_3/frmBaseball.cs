@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BaseballDB;
 
 namespace _300910584_goh__ASS_3
 {
@@ -23,11 +24,6 @@ namespace _300910584_goh__ASS_3
         // init
         private void init()
         {
-            //ctx.Players
-            //    .OrderBy(player => player.LastName)
-            //    .ThenBy(player => player.FirstName)
-            //    .Load();
-
             dgvBaseball.DataSource = ctx.Players.ToList();            
         }
 
@@ -37,7 +33,6 @@ namespace _300910584_goh__ASS_3
 
             var query = ctx.Players
                 .Where(a => a.LastName.ToUpper().Contains(lastName))
-                //.Where(a => a.LastName.ToUpper().Equals(lastName))
                 .ToList();
 
             dgvBaseball.DataSource = query;

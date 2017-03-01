@@ -1,0 +1,12 @@
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\BooksDB.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\BooksDB.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\obj\Debug\BooksDB.csprojResolveAssemblyReference.cache
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\obj\Debug\BooksDB.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\obj\Debug\BooksDB.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\Books.mdf
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\Books_log.ldf
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\EntityFramework.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\EntityFramework.xml
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BooksDB\bin\Debug\BooksDB.dll.config

@@ -1,0 +1,12 @@
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\Baseball.mdf
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\Baseball_log.ldf
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\EntityFramework.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\EntityFramework.xml
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\obj\Debug\BaseballDB.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\obj\Debug\BaseballDB.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\BaseballDB.dll.config
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\BaseballDB.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\bin\Debug\BaseballDB.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_3\BaseballDB\obj\Debug\BaseballDB.csprojResolveAssemblyReference.cache
