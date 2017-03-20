@@ -1,0 +1,8 @@
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\bin\Debug\Q2.exe.config
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\obj\Debug\Q2.csprojResolveAssemblyReference.cache
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\bin\Debug\Q2.exe
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\bin\Debug\Q2.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\bin\Debug\LinkedListLibrary.dll
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\bin\Debug\LinkedListLibrary.pdb
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\obj\Debug\Q2.exe
+C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Q2\obj\Debug\Q2.pdb
