@@ -1,0 +1,3 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\Stack\Stack\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\Stack\Stack\obj\Debug\ConsoleApplication1.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\Stack\Stack\obj\Debug\ConsoleApplication1.pdb
