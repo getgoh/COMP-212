@@ -1,0 +1,9 @@
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\bin\Debug\Q2.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\bin\Debug\Q2.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\bin\Debug\Q2.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\obj\Debug\Q2.csprojResolveAssemblyReference.cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\obj\Debug\Q2.frmSearch.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\obj\Debug\Q2.Properties.Resources.resources
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\obj\Debug\Q2.csproj.GenerateResource.Cache
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\obj\Debug\Q2.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_5\Q2\obj\Debug\Q2.pdb

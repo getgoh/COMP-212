@@ -4,3 +4,6 @@ C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\bin\
 C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\bin\Debug\Goh_Q2.pdb
 C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\obj\Debug\Goh_Q2.exe
 C:\Users\bluja\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\obj\Debug\Goh_Q2.pdb
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\bin\Debug\Goh_Q2.exe.config
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\obj\Debug\Goh_Q2.exe
+C:\Users\300910584\Documents\GitHub\COMP-212\300910584(goh)_ASS_4\Goh_Q2\Goh_Q2\obj\Debug\Goh_Q2.pdb
